@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=PopMain&show_icons=true&hide_border=true" />
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app//api/top-langs/?username=PopMain&show_icons=true&hide_border=true" />
-<p>
+<p align="left">
 /////////////////////////////////////////////////
 //                   _ooOoo_                   //
 //                  o8888888o                  //
